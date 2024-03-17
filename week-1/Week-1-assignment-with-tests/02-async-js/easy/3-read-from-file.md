@@ -1,4 +1,5 @@
 New line Added
+New line Added
 New line Added## Reading the contents of a file
 
 Write code to read contents of a file and print it to the console. 
